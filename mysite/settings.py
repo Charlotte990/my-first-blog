@@ -25,7 +25,7 @@ SECRET_KEY = '1ie^kmg*votp=a0knn1a5qms(#*+-_c85qi3)u1gfmkc)*&v2i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'cjewer.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'charlottej990.pythonanywhere.com']
 
 
 # Application definition
